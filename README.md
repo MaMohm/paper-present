@@ -9,6 +9,10 @@
 Free attendance web app gift for teachers.  
 Track student presence in seconds with a modern, animated interface.
 
+## Live Demo
+
+https://mamohm.github.io/paper-present/
+
 ## ✨ Why Paper Present
 
 - 🎯 Fast one-click attendance: `Present`, `Late`, `Absent`
