@@ -11,7 +11,8 @@ Track student presence in seconds with a modern, animated interface.
 
 ## Live Demo
 
-https://mamohm.github.io/paper-present/
+# https://mamohm.github.io/paper-present/
+<br/>
 <img width="576" height="835" alt="image" src="https://github.com/user-attachments/assets/66c04b98-65d9-4c1c-a6da-343b7ec4324d" />
 
 <img width="880" height="842" alt="image" src="https://github.com/user-attachments/assets/15061d68-05e6-499c-a203-6c9153bc3158" />
