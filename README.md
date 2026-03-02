@@ -6,8 +6,7 @@
 [![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7-7c3aed?logo=vite&logoColor=white)](https://vitejs.dev/)
 
-Free attendance web app gift for teachers.  
-Track student presence in seconds with a modern, animated interface.
+Free attendance web app gift for teachers.
 
 ## Live Demo
 
