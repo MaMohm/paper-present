@@ -47,7 +47,7 @@ Free attendance web app gift for teachers.
 - `React 19`
 - `Vite 7`
 - `SCSS`
-- Browser `localStorage` (no backend required)
+- Browser `localStorage` 
 
 ## 📦 Getting Started
 
